@@ -1,0 +1,1 @@
+export PYTHONPATH="/home/liule/project/campp/3D-Speaker:$PYTHONPATH"

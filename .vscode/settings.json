@@ -1,0 +1,14 @@
+{
+    "terminal.integrated.env.linux": {
+        "PYTHONPATH": "${workspaceFolder}/3D-Speaker:${env:PYTHONPATH}"
+    },
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/3D-Speaker"
+    ],
+    "python.autoComplete.extraPaths": [
+        "${workspaceFolder}/3D-Speaker"
+    ],
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.indexing": true,
+    "python.analysis.diagnosticMode": "workspace"
+}
